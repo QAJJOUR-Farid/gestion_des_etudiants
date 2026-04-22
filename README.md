@@ -2,13 +2,13 @@
 
 Une application web Java robuste pour la gestion des inscriptions et des dossiers scolaires des étudiants.
 
-## 🚀 Fonctionnalités
+##  Fonctionnalités
 - **Gestion des Étudiants** : Ajout, modification, suppression et affichage de la liste des étudiants.
 - **Authentification** : Système de connexion sécurisé pour les administrateurs.
 - **Interface Moderne** : Pages JSP avec un design épuré et responsive.
 - **API REST** : Intégration de Jersey pour les services web.
 
-## 🛠️ Technologies Utilisées
+##  Technologies Utilisées
 - **Langage** : Java 21
 - **Framework Web** : Jakarta Servlet 6.0 / JSP
 - **API REST** : Jersey (JAX-RS)
@@ -16,13 +16,13 @@ Une application web Java robuste pour la gestion des inscriptions et des dossier
 - **Gestionnaire de Dépendances** : Maven
 - **Style** : CSS3 (Vanille)
 
-## 📋 Prérequis
+##  Prérequis
 - **JDK 21** ou supérieur.
 - **Maven 3.8+**.
 - **Serveur d'application** : Apache Tomcat 10+ (compatible Jakarta EE 10).
 - **MySQL Server**.
 
-## ⚙️ Configuration
+##  Configuration
 1. **Base de données** :
    - Créez une base de données MySQL nommée `scolarite`.
    - Configurez les accès (URL, utilisateur, mot de passe) dans la classe `dao.EtudiantDAO`.
